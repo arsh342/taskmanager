@@ -19,7 +19,7 @@ A robust Node.js command-line Task Manager with user authentication, advanced ta
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/arsh342/taskmanager.git
    cd taskmanager
    ```
 2. **Install dependencies:**
